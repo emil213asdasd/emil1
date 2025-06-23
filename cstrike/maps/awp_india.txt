@@ -1,0 +1,4 @@
+Map name: awp_india.
+Version map: Counter Strike 1.6
+Category: Sniper War
+SITE: Cs-Site.Ru
